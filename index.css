@@ -1,7 +1,18 @@
 body{
     color:white;
+    text-align: center;
 }
-div{
+
+span{
+    font-size: 75px;
+    font-style: Papyrus;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+
+}
+.Title{
     text-align: center;
     font-size: 100px;
     font-style: Papyrus;
@@ -9,4 +20,17 @@ div{
     background-color: #385752;
     padding:20px;
     margin:20px;
+}
+
+.Adobo{
+    background-color: #A1B4A5;
+}
+
+
+.Afritada{
+    background-color: #DBD3D1;
+}
+
+.Tinola{
+    background-color: #F5B8B6;
 }

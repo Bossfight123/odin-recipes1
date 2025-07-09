@@ -1,0 +1,12 @@
+body{
+    color:white;
+}
+div{
+    text-align: center;
+    font-size: 100px;
+    font-style: Papyrus;
+    margin: 30px;
+    background-color: #385752;
+    padding:20px;
+    margin:20px;
+}

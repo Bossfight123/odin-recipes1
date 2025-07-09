@@ -1,0 +1,15 @@
+.Home{
+    background-color: lightgray;
+    padding: 10px 20px;
+    font-size: 20px;
+    display: inline-block;
+}
+
+.Title{
+    font-size: 50px;
+    text-align: center;
+    font-style: "Lucida Console";
+    font-weight: bold;
+    font-size: 70px;
+    color: #385752;
+}
